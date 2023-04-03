@@ -1,0 +1,17 @@
+2023-04-03 02:39:16.314925 - Initialized conversion of CBT783
+2023-04-03 02:39:16.545429 - Received CBT.V504.FILE783.PDS from FILE783.XMI 
+2023-04-03 02:39:16.548430 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:39:16.549521 - Found @FILE783.txt (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/@FILE783
+2023-04-03 02:39:16.551584 - Found FILE01.txt (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE01
+2023-04-03 02:39:16.553064 - Found FILE02.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE02
+2023-04-03 02:39:16.554479 - Found FILE03.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE03
+2023-04-03 02:39:16.555697 - Found FILE04.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE04
+2023-04-03 02:39:16.556943 - Found FILE05.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE05
+2023-04-03 02:39:16.558059 - Found FILE06.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE06
+2023-04-03 02:39:16.559383 - Found FILE07.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE07
+2023-04-03 02:39:16.560727 - Found FILE08.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE08
+2023-04-03 02:39:16.562077 - Found FILE09.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE09
+2023-04-03 02:39:16.563312 - Found FILE10.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE10
+2023-04-03 02:39:16.564431 - Found FILE11.jcl (text/plain) in CBT.V504.FILE783.PDS, moved to PDS/FILE11
+2023-04-03 02:39:16.564445 - Found FILE12.bin containing application/octet-stream, moved to PDS/FILE12
+2023-04-03 02:39:16.565460 - Found FILE13.bin containing application/octet-stream, moved to PDS/FILE13
